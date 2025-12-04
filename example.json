@@ -1,0 +1,19 @@
+{
+  "latest": "0.2.0",
+  "releases": [
+    {
+      "version": "0.2.0",
+      "date": "2025-02-01",
+      "important": true,
+      "notes": "• Added Dark Mode\n• Fixed crash on startup",
+      "downloadUrl": "https://..."
+    },
+    {
+      "version": "0.1.5",
+      "date": "2025-01-15",
+      "important": false,
+      "notes": "• Minor text corrections",
+      "downloadUrl": "https://..."
+    }
+  ]
+}
