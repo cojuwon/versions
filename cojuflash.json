@@ -2,6 +2,13 @@
   "latest": "0.1.2",
   "releases": [
     {
+      "version": "0.1.2",
+      "date": "2025-12-05",
+      "important": true,
+      "notes": "• Minor improvements",
+      "downloadUrl": ""
+    },
+    {
       "version": "0.1.0",
       "date": "2025-12-05",
       "important": true,
