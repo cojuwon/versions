@@ -29,5 +29,6 @@
       "notes": "This is an important security update.",
       "downloadUrl": ""
     }
-  ]
+  ],
+  "signature": "s+9NcnHHMqnDiqnbUInoNP6Z3CseNWAdbU75yyyBQyugGS30E+9991TCNfD98APpmx+8JR77m805lQ7xvdp/Cw=="
 }
