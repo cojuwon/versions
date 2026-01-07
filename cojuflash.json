@@ -1,5 +1,5 @@
 {
-  "latest": "0.1.2",
+  "latest": "0.1.3",
   "releases": [
     {
       "version": "0.1.0",
@@ -20,6 +20,13 @@
       "date": "2025-12-21",
       "important": true,
       "notes": "• NEW: AnkiConnect export - sync decks directly to Anki via API\n• NEW: Full app data export (JSON & encrypted .coju formats)\n• NEW: Encrypted backup import with password protection\n• NEW: Change storage location in Settings\n• NEW: \"Use Existing Data\" option when switching to folder with data\n• Improved migration flow with conflict handling\n• Simplified storage options (SQLite & Remote Database coming soon)",
+      "downloadUrl": ""
+    },
+    {
+      "version": "0.1.3",
+      "date": "2026-01-07",
+      "important": true,
+      "notes": "This is an important security update.",
       "downloadUrl": ""
     }
   ]
